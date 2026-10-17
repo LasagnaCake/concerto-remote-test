@@ -1,3 +1,5 @@
 {
-    crt-test-lib "https://github.com/LasagnaCake/concerto-remote-test/blob/main/test"
+    sources [
+        "https://github.com/LasagnaCake/concerto-remote-test/blob/main/test"
+    ]
 }

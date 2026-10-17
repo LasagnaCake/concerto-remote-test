@@ -1,5 +1,5 @@
 {
     sources [
-        "https://github.com/LasagnaCake/concerto-remote-test/blob/main/test"
+        "https://raw.githubusercontent.com/LasagnaCake/concerto-remote-test/refs/heads/main"
     ]
 }

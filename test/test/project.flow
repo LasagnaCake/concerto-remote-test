@@ -1,0 +1,10 @@
+{
+  art "1.0" 
+  concerto "1.0" 
+  lang breve 
+  main "main.bv" 
+  name test 
+  src [] 
+  type lib 
+  ver "1.0"
+}
